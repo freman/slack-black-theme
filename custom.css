@@ -126,7 +126,7 @@ ts-jumper input[type="text"],
     background: var(--background-elevated);
 }
 
-.p-message_pane__limited_history_foreword {	
+.p-message_pane__foreword__description {	
     color: var(--text);
     background: var(--background-elevated);
 }
